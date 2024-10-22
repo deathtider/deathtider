@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**deathtider/deathtider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a gamedev project
 - 🌱 I’m currently learning advanced C# and Blender
 - 👯 I’m looking to collaborate on my project
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email me!
 - 😄 Pronouns: he/he
 - ⚡ Fun fact: Did you know you are currently reading this README file??
--->
